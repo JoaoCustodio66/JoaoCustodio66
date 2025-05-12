@@ -1,8 +1,11 @@
 # Olá! Eu sou o João Custódio 👋 Bem-vindo ao meu Perfil!
 
 🌱 Atualmente trabalhando como Desenvolvedor em Pascal e Java.
+
 📖 Atualmente aprendendo: React.
+
 💬 Pergunte-me sobre: Java, Delphi, PostgreSQL, MongoDB.
+
 📬 Como me encontrar:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joaocustodiokintal@gmail.com)
