@@ -20,6 +20,7 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: JoaoCustodio66
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Criar Pasta para a Animação
         run: mkdir -p output
