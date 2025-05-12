@@ -30,11 +30,6 @@
 
 ---
 
-### 🐍 Cobrinha dos Commits
-![Snake animation](https://github.com/JoaoCustodio66/JoaoCustodio66/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🚀 Projetos Atuais
 - [Avalie Kintal Lanches](https://github.com/JoaoCustodio66/avalieKintal) - Projeto de avaliação de serviço para cliente do ramo alimentício.
 - [Avalie PUC CAMPINAS](https://github.com/JoaoCustodio66/Avalie) - Projeto desenvolvido em Java e Kotlin para avaliação de aulas.
